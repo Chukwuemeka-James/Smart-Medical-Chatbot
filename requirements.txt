@@ -2,7 +2,7 @@ langchain
 langchain-community
 langchain-huggingface
 faiss-cpu
-pypdf
+PyMuPDFLoader
 huggingface-hub
 streamlit
 python-dotenv
